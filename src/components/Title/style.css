@@ -1,0 +1,15 @@
+.container {
+  width: 75%;
+  background-color: rgb(141, 127, 140);
+  }
+
+.title {
+  width: 100%;
+  color: lightgray;
+  font-family: Impact, Charcoal, sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 2px 2px black;
+  /* margin-bottom: 5px; */
+}
